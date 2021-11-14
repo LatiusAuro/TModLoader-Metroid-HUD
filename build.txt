@@ -1,0 +1,3 @@
+displayName = Metroid Health Bars
+author = LatiusAuro
+version = 0.1
